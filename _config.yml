@@ -1,0 +1,8 @@
+title: Ericzzhou.GitHub.com
+description: eric zhou 's blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
