@@ -1107,3 +1107,17 @@ a.move-top span{
 }
 
 /* //responsive */
+
+.container{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header {
+        padding-left: 15px;
+    padding-right: 15px;
+}
+
+.img-fluid{
+    width: 100%;
+}
